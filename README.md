@@ -12,7 +12,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-Currently, this codebase supports the generation of SHAPstories. To use the code for SHAPstory generation, refer to the provided Jupyter Notebook ([`SHAPstories_Example.ipynb`](SHAPstories_Example.ipynb)). Note that an OpenAI API key is required.
+This codebase supports the generation of SHAP stories. Currently, only models that support SKLearn's predict_proba are able to be used.
+
+To use the code for SHAPstory generation, refer to the provided Jupyter Notebook ([`SHAPstories_Example.ipynb`](SHAPstories_Example.ipynb)).
+
+Note that an OpenAI API key is required.
 
 ## Citation
 
