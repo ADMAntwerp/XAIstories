@@ -2,4 +2,4 @@ pandas
 numpy
 shap
 openai
-sklearn
+scikit-learn
