@@ -3,3 +3,7 @@ numpy
 shap
 openai
 scikit-learn
+google-generativeai
+replicate
+matplotlib
+pillow
